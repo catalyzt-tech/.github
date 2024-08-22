@@ -11,5 +11,5 @@ Here are some products made by us:
 - **[Governance GPT Bot]()** - Make governance more accessible with the power of LLMs.
 
 ---
-Made with ❤️ by the [Catalyzt](https://catalyzt.tech) team.
+Made with ❤️ by the Catalyzt team.
 
