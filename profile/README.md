@@ -8,7 +8,7 @@ Nowadays, crypto and blockchain are in their early stages. We are committed to e
 Here are some products made by us:
 - **[RetroPGF Hub](https://retropgfhub.com/)** -  A community-driven site about RetroFunds by Optimism
 - **[Builder Ideas](https://contribute.optimism.io)** - Collection of foundation's project ideas on official Optimism site.
-- **[Governance GPT Bot]()** - Make governance more accessible by the power of LLMs.
+- **[Governance GPT Bot]()** - Make governance more accessible with the power of LLMs.
 
 ---
 Made with ❤️ by the [Catalyzt](https://catalyzt.tech) team.
